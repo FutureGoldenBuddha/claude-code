@@ -9,3 +9,7 @@ ollama
 `ollama serve &`
 
 `ollama pull qwen2.5-coder:0.5b`
+
+`ollama list`
+
+`ollama launch claude`
