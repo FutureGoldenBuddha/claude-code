@@ -1,6 +1,6 @@
 Note: commented out the lines pertaining to the firewall...
 
-Also removed these lines from devcongtainer.json
+Also removed these lines from devcontainer.json
 ´´´
 "postStartCommand": "sudo /usr/local/bin/init-firewall.sh",
 "waitFor": "postStartCommand"
